@@ -1,0 +1,11 @@
+{
+  "name": "fetch-bc-data-web3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Cryptonomic-Research/fetch-bc-data-web3.git",
+  "author": "lemonsuy <lemon.pattharathon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "web3": "^1.8.0"
+  }
+}
